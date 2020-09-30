@@ -36,7 +36,7 @@ paths:
       description: |-
         some description
 
-        ![test](../assets/images/image.png)
+        ![test](../../../../assets/images/image.png)
       operationId: addPet
       consumes:
         - application/json
